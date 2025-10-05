@@ -1,0 +1,24 @@
+{
+  "name": "Bachaoo Emergency Assistant",
+  "short_name": "Bachaoo",
+  "description": "Real emergency assistance with live location and emergency services",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#dc2626",
+  "background_color": "#1a1a1a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["health", "navigation", "emergency"],
+  "lang": "en-US"
+}
